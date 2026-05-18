@@ -1,5 +1,14 @@
 # Praktikum Kecerdasan Buatan - Pertemuan 8
 
+**Identitas Mahasiswa:**
+- **Nama:** MUHAMMAD FATHAN RAMDANI
+- **NIM:** H1D024026
+- **Shift Awal:** A
+- **Shift Akhir:** B
+- **Mata Kuliah:** PRAKTIKUM KECERDASAN BUATAN
+
+---
+
 Repositori ini berisi implementasi Convolutional Neural Network (CNN) untuk mengklasifikasi gambar Rock-Paper-Scissors (batu-gunting-kertas) menggunakan TensorFlow dan Keras. Tugas ini merupakan bagian dari praktikum Kecerdasan Buatan (Pertemuan 8).
 
 ## Deskripsi Tugas
